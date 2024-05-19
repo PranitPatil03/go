@@ -19,4 +19,5 @@ func main() {
 	var todos = [3]string{"Project", "GYM", "Work"}
 	fmt.Println("The Marks Array is", todos)
 	fmt.Println("The Marks Array is", len(todos))
+
 }
